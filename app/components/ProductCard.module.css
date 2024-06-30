@@ -1,0 +1,4 @@
+.card {  /* must specify the classes in a valid Object keys names like cardContainer not card-container will throw an error*/
+    padding: 1rem;
+    border: 1px solid #ccc;
+}
