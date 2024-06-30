@@ -6,6 +6,7 @@ const ProductCard = () => {
   return (
     <div className={styles.card}>
       <AddToCart/>
+      <button>Button Daisy UI</button>
     </div>
   )
 }
